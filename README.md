@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joao278
-- 👀 I’m interested in uma vaga na area de programação 
+- 👋 Hi, I’m @joao mauricio
+- 👀 I’m interested in uma vaga na area de programação java
 -🌱 I’m currently learning  java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  pelo tel: 71 981764219
